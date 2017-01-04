@@ -2,6 +2,6 @@
   "name": "photon-vna-library",
   "author": "Charlie Price <cprice9739@carolina.rr.com>",
   "license": "MIT",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Vector Network Analyzer using Particle Photon and 3.5: Adafruit TFT display"
 }
