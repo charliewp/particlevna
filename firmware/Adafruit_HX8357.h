@@ -39,7 +39,7 @@
 #endif
 
 #include "Adafruit_mfGFX.h"
-#include "sdlibs/SdFat.h"
+#include "photon-vna-library/sdlibs/SdFat.h"
 
 
 
